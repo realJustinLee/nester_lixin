@@ -7,7 +7,7 @@ setuptools.setup(
     name="nester-lixin",
     version="1.0.0",
     author="Li Xin",
-    author_email="JustinDellAam@Gmail.com",
+    author_email="JustinDellAadm@Live.com",
     description="A simple printer of nested lists",
     long_description=long_description,
     long_description_content_type="text/markdown",
