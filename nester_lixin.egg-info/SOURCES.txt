@@ -1,6 +1,7 @@
 README.md
 setup.py
 nester_lixin/__init__.py
+nester_lixin/nester.py
 nester_lixin.egg-info/PKG-INFO
 nester_lixin.egg-info/SOURCES.txt
 nester_lixin.egg-info/dependency_links.txt

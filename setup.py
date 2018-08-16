@@ -5,10 +5,11 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="nester-lixin",
-    version="1.0.5",
+    version="1.0.6",
     author="Li Xin",
     author_email="JustinDellAadm@Live.com",
     description="A simple printer of nested lists",
+    license="MIT License",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/Great-Li-Xin/nester_lixin",
@@ -18,4 +19,8 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
+    project_urls={  # Optional
+        'Bug Reports': 'https://github.com/Great-Li-Xin/nester_lixin/issues',
+        'Source': 'https://github.com/Great-Li-Xin/nester_lixin',
+    },
 )

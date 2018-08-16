@@ -1,11 +1,13 @@
 Metadata-Version: 2.1
 Name: nester-lixin
-Version: 1.0.5
+Version: 1.0.6
 Summary: A simple printer of nested lists
 Home-page: https://github.com/Great-Li-Xin/nester_lixin
 Author: Li Xin
 Author-email: JustinDellAadm@Live.com
-License: UNKNOWN
+License: MIT License
+Project-URL: Bug Reports, https://github.com/Great-Li-Xin/nester_lixin/issues
+Project-URL: Source, https://github.com/Great-Li-Xin/nester_lixin
 Description: # Nester By Li Xin
         
         This a simple printer of nested lists. You can use
