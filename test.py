@@ -1,8 +1,7 @@
-import sys, nester_lixin
+import sys
 
-from nester_lixin import print_lol
+from nester_lixin import nester
 
 if __name__ == '__main__':
     print(sys.path)
-    nester_lixin.print_lol(sys.path)
-    print_lol(sys.path)
+    nester.print_lol(sys.path)

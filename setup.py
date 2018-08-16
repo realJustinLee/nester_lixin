@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="nester-lixin",
-    version="1.0.6",
+    version="1.0.7",
     author="Li Xin",
     author_email="JustinDellAadm@Live.com",
     description="A simple printer of nested lists",
